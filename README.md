@@ -1,2 +1,2 @@
 # hello-world
-first project
+first project, will try to learn fast
